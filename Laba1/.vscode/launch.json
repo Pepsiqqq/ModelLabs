@@ -6,10 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "laba1",
+            "name": "Main",
             "request": "launch",
-            "mainClass": "Laba1.laba1",
-            "projectName": "",
+            "mainClass": "Main",
+            "projectName": "Laba1_7990804d",
             "console": "externalTerminal"
         },
         {
